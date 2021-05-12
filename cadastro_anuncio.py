@@ -1,3 +1,5 @@
+#Tarefa 2 do desafio de programação da Capgemini!
+#Elaborado por Leonardo Thiesen Baum
 import sqlite3
 import datetime
 import csv
